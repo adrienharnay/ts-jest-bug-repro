@@ -1,0 +1,20 @@
+{
+  "name": "ts-jest-bug-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adrienharnay/ts-jest-bug-repro.git",
+  "author": "Adrien HARNAY <adrien@harnay.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "7.0.0-beta.47",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^23.4.0",
+    "jest-cli": "^23.4.1",
+    "jest-config": "^23.4.1",
+    "ts-jest": "^23.0.1",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.5.1"
+  }
+}
