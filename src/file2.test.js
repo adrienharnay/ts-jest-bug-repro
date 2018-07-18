@@ -1,4 +1,4 @@
-import { func } from './file';
+import { func } from './file2';
 
 describe('file', () => {
   test('func', () => {

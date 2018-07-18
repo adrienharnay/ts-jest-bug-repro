@@ -20,5 +20,9 @@
   },
   "devDependencies": {
     "@types/qs": "^6.5.1"
+  },
+  "scripts": {
+    "test": "yarn jest",
+    "test:coverage": "yarn test --coverage"
   }
 }
