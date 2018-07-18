@@ -15,7 +15,7 @@ module.exports = api => {
       {
         modules: 'commonjs',
         useBuiltIns: 'usage',
-        targets: { node: '10.6.0' },
+        targets: { node: '10.5.0' },
       },
     ],
     '@babel/react',
